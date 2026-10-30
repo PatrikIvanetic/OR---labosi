@@ -1,0 +1,302 @@
+[
+  {
+    "nazivkoncprostor": "Koncertna dvorana Vatroslava Lisinskog",
+    "ulica": "Trg Stjepana Radića",
+    "kucnibroj": "4",
+    "pbr": 10000,
+    "godinaotvorenja": 1973,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Amira Medunjanin",
+        "zanr": "sevdah"
+      },
+      {
+        "umjetnickoIme": "Zvonko Bogdan",
+        "zanr": "tamburaška glazba"
+      }
+    ],
+    "primarnokoncprostor": true,
+    "sluzbenastranica": "https://www.lisinski.hr/hr/",
+    "vlasnik": "Grad Zagreb"
+  },
+  {
+    "nazivkoncprostor": "Arena Zagreb",
+    "ulica": "Ulica Vice Vukova",
+    "kucnibroj": "8",
+    "pbr": 10000,
+    "godinaotvorenja": 2008,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Sting",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Amira Medunjanin",
+        "zanr": "sevdah"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": "https://www.zagrebarena.hr/",
+    "vlasnik": "Grad Zagreb"
+  },
+  {
+    "nazivkoncprostor": "Dom sportova",
+    "ulica": "Trg Krešimira Ćosića",
+    "kucnibroj": "11",
+    "pbr": 10000,
+    "godinaotvorenja": 1972,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Zagreb"
+  },
+  {
+    "nazivkoncprostor": "Dvorana Gradski vrt",
+    "ulica": "Ulica kneza Trpimira",
+    "kucnibroj": "23",
+    "pbr": 31000,
+    "godinaotvorenja": 2008,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Osijek"
+  },
+  {
+    "nazivkoncprostor": "Koncertna dvorana Franjo Krežma",
+    "ulica": "Ulica kneza trpimira",
+    "kucnibroj": "2/A",
+    "pbr": 31000,
+    "godinaotvorenja": 2024,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Amira Medunjanin",
+        "zanr": "sevdah"
+      },
+      {
+        "umjetnickoIme": "Zvonko Bogdan",
+        "zanr": "tamburaška glazba"
+      }
+    ],
+    "primarnokoncprostor": true,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Osijek"
+  },
+  {
+    "nazivkoncprostor": "Hipodrom Zagreb",
+    "ulica": "Ulica Radoslava Cimermana",
+    "kucnibroj": "5",
+    "pbr": 10000,
+    "godinaotvorenja": 1948,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      },
+      {
+        "umjetnickoIme": "Metallica",
+        "zanr": "heavy metal"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Zagreb"
+  },
+  {
+    "nazivkoncprostor": "Dvorana Gripe",
+    "ulica": "Osječka ulica",
+    "kucnibroj": "11",
+    "pbr": 21000,
+    "godinaotvorenja": 1979,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Split"
+  },
+  {
+    "nazivkoncprostor": "Arena Pula",
+    "ulica": "Flavijevska ulica",
+    "kucnibroj": "b.b.",
+    "pbr": 52100,
+    "godinaotvorenja": 1950,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Ricky Martin",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Sting",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Amira Medunjanin",
+        "zanr": "sevdah"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": "https://www.arenapula.hr/hr/",
+    "vlasnik": "Grad Pula"
+  },
+  {
+    "nazivkoncprostor": "Tvornica kulture",
+    "ulica": "Ulica Pavla Šubića",
+    "kucnibroj": "2",
+    "pbr": 10000,
+    "godinaotvorenja": 1999,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Pips, Chips & Videoclips",
+        "zanr": "pop rock"
+      }
+    ],
+    "primarnokoncprostor": true,
+    "sluzbenastranica": "https://www.tvornicakulture.com/",
+    "vlasnik": "Mirjana Miškić-Domislić"
+  },
+  {
+    "nazivkoncprostor": "Spaladium Arena",
+    "ulica": "Ulica Zrinsko Frankopanska",
+    "kucnibroj": "211",
+    "pbr": 21000,
+    "godinaotvorenja": 2008,
+    "odrzalikoncert": [
+      {
+        "umjetnickoIme": "Gibonni",
+        "zanr": "dalmatinska šansona"
+      },
+      {
+        "umjetnickoIme": "Severina",
+        "zanr": "pop"
+      },
+      {
+        "umjetnickoIme": "Prljavo kazalište",
+        "zanr": "rock"
+      },
+      {
+        "umjetnickoIme": "Mišo Kovač",
+        "zanr": "zabavna glazba"
+      },
+      {
+        "umjetnickoIme": "Thompson",
+        "zanr": "folk rock"
+      }
+    ],
+    "primarnokoncprostor": false,
+    "sluzbenastranica": null,
+    "vlasnik": "Grad Split"
+  }
+]
